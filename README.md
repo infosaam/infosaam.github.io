@@ -3,3 +3,5 @@
 # Informazioni e annunci delle varie sale:
 
 - [Cesena](/cesena)
+
+# [Manuale d'uso](/manuale)
