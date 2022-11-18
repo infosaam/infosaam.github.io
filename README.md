@@ -48,9 +48,13 @@ Termine ultimo di conferma iscrizioni e pagamento: 11 Dicembre ore 00:00
 )
 
 Segui i nostri canali Social per tutte le informazioni:
+
 Email: [campionatoschermastorica@gmail.com](mailto:campionatoschermastorica@gmail.com)
+
 FB: [https://www.facebook.com/SchermaStoricaASC/](https://www.facebook.com/SchermaStoricaASC/)
+
 IG: [@schermastoricaasc](https://www.instagram.com/schermastoricaasc)
+
 Telegram: [https://t.me/schermastoricaasc](https://t.me/schermastoricaasc)
 
 ## Programma:
@@ -74,6 +78,7 @@ Domenica
 Tutti gli orari sono da considerarsi indicativi.
 
 La registrazione degli atleti ed il controllo dell'ammissibilità di eventuali attrezzature proprie sono da effettuare giornalmente almeno 15 minuti prima dell'inizio della gara a cui si è iscritti.
+
 Sarà possibile noleggiare spada da lato, pugnale e spada a due mani versando in loco la quota di 5€ per singolo attrezzo per singola disciplina.
 
 
