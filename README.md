@@ -1,5 +1,3 @@
-<img src="/assets/img/Logo_Saam2.png" height="250"/>
-
 <div>   
 <button type="button" class="collapsible active">+ Informazioni di pagamento</button>
 <div class="content" style="display: none;" markdown="1">
@@ -101,4 +99,34 @@ Sarà possibile noleggiare spada da lato, pugnale e spada a due mani versando in
 
 # [Manuale d'uso](/manuale)
 
-<script type="text/javascript"> function loadCSS(filename){ var file = document.createElement("link"); file.setAttribute("rel", "stylesheet"); file.setAttribute("type", "text/css"); file.setAttribute("href", filename); document.head.appendChild(file); } //just call a function to load your CSS //this path should be relative your HTML location loadCSS("collapse.css"); var coll = document.getElementsByClassName("collapsible"); var i; for (i = 0; i < coll.length; i++) { coll[i].addEventListener("click", function() { this.classList.toggle("active"); var content = this.nextElementSibling; if (content.style.display === "block") { content.style.display = "none"; } else { content.style.display = "block"; } }); } </script>
+<script type="text/javascript">
+
+    function loadCSS(filename){ 
+
+       var file = document.createElement("link");
+       file.setAttribute("rel", "stylesheet");
+       file.setAttribute("type", "text/css");
+       file.setAttribute("href", filename);
+       document.head.appendChild(file);
+    }
+
+    //just call a function to load your CSS
+    //this path should be relative your HTML location
+    loadCSS("collapse.css");
+
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
+
+    for (i = 0; i < coll.length; i++) {
+      coll[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        var content = this.nextElementSibling;
+        if (content.style.display === "block") {
+          content.style.display = "none";
+        } else {
+          content.style.display = "block";
+        }
+      });
+    }
+
+</script>
