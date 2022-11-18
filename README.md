@@ -102,8 +102,6 @@ Sarà possibile noleggiare spada da lato, pugnale e spada a due mani versando in
 
 - [Cesena](/cesena)
 
-# [Manuale d'uso](/manuale)
-
 <script type="text/javascript">
 
     function loadCSS(filename){ 
