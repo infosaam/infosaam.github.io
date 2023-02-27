@@ -27,6 +27,12 @@ Causale: Nome Cognome Sala + Cosa si paga (ad esempio Mario Rossi Cesena Ott-Dic
 - **Qualificazioni Sud**: 22-23 Aprile 2023, Palestrina
 - **Assoluti**: 20-21 Maggio 2023, Sportilia
 ![](/assets/img/gare22-23.jpg)
+    
+## Altri tornei
+- **Torneo primini + Torneo master**: 24-25 Giugno 2023, Fano
+    
+## Altri eventi
+- **Venticinquennale Sala d'Arme Achille Marozzo e Seminario Nazionale**: 2-3 Giugno, Sestola (MO). L'evento inizierà con una conferenza serale Venerdì 2 Giugno e proseguirà la mattina di Sabato 3 Giugno, per poi concludersi a pranzo. Sarà possibile visitare il castello di Sestola.
 </div>
 </div>
 
