@@ -25,14 +25,17 @@ Causale: Nome Cognome Sala + Cosa si paga (ad esempio Mario Rossi Cesena Ott-Dic
 ## Circuito Gare 2022-2023
 - **Qualificazioni Nord**: 25-26 Febbraio 2023, Cesena
 - **Qualificazioni Sud**: 22-23 Aprile 2023, Palestrina
-- **Assoluti**: 20-21 Maggio 2023, Sportilia
+- **Assoluti**: 20-21 Maggio 2023, TBD (Sportilia?)
 ![](/assets/img/gare22-23.jpg)
     
 ## Altri tornei
-- **Torneo primini + Torneo master**: 24-25 Giugno 2023, Fano
+- **Torneo primini + Torneo master**: 24-25 Giugno 2023, Fano. Al torneo primini sono ammessi gli iscritti del primo e secondo anno. Negli stessi giorni si terrà una sessione di esami extra.
     
 ## Altri eventi
-- **Venticinquennale Sala d'Arme Achille Marozzo e Seminario Nazionale**: 2-3 Giugno, Sestola (MO). L'evento inizierà con una conferenza serale Venerdì 2 Giugno e proseguirà la mattina di Sabato 3 Giugno, per poi concludersi a pranzo. Sarà possibile visitare il castello di Sestola.
+- **Venticinquennale Sala d'Arme Achille Marozzo e Seminario Nazionale**: 2-3 Giugno, Sestola (MO). L'evento inizierà con una conferenza serale Venerdì 2 Giugno e proseguirà la mattina di Sabato 3 Giugno, per poi concludersi con la Cena di Gala la sera del Sabato alle 19:30. Il costo della cena è di 60 €, le iscrizioni chiuderanno il 30 Marzo 2023 (nessuna deroga). All’evento sono invitati tutti i marozziani e gli ex marozziani che avessero il piacere di partecipare, compresi eventuali accompagnatori. Per iscriversi, [cliccare qui](https://www.cognitoforms.com/SalaDArmeAchilleMarozzo/IscrizioneXXVennaleSAAM). L'evento è a numero chiuso. Dress code: parola d'ordine **eleganza**. Si prega tutti di astenersi dal portare spade, mantelli, cappelli, jeans, abiti da cosplay, cappe da moschettieri, etc. Ammessi sobri coltelli (rigorosamente da non ostentare). Gratis fino ai 4 anni, 15 € per i bambini da 5 a 15 anni. Possibile anche il solo acquisto dei gadget.
+- **Scherma Rinascimentale nella Città Ideale**: torneo CSEN a Urbino, organizzato dalla Sala d´Arme Aquila Gladiatrix. Discipline in ferro: Spada a due mani (open e femminile), striscia, altro da definirsi.
+- **Mensile di spada a due mani**: 19 Marzo, Perugia.
+- **Mensile di spada e brocchiero rinascimentale**: 2 Aprile, Lucca.
 </div>
 </div>
 
